@@ -1,0 +1,29 @@
+[
+  {
+    "id": "FudanPed00001",
+    "seconds": 3.1886600840080064,
+    "prompt": "an empty outdoor campus walkway, continuous pavement, trees and buildings, no people",
+    "mask_fraction": 0.1427154541015625,
+    "raw_outside_mae": 11.05574640015663,
+    "final_outside_max_error": 0.0,
+    "edited_region_change_mae": 68.08147118571581
+  },
+  {
+    "id": "FudanPed00002",
+    "seconds": 2.9116299160086783,
+    "prompt": "an empty outdoor campus walkway, continuous pavement, trees and buildings, no people",
+    "mask_fraction": 0.1056671142578125,
+    "raw_outside_mae": 11.956356315367422,
+    "final_outside_max_error": 0.0,
+    "edited_region_change_mae": 67.15870036101083
+  },
+  {
+    "id": "FudanPed00003",
+    "seconds": 2.8939713750005467,
+    "prompt": "an empty outdoor campus walkway, continuous pavement, trees and buildings, no people",
+    "mask_fraction": 0.1035003662109375,
+    "raw_outside_mae": 9.44438014512734,
+    "final_outside_max_error": 0.0,
+    "edited_region_change_mae": 56.20497321735712
+  }
+]

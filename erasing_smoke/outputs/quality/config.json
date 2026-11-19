@@ -1,0 +1,15 @@
+{
+  "mode": "quality",
+  "model": "stable-diffusion-v1-5/stable-diffusion-inpainting",
+  "requested_revision": null,
+  "device": "mps",
+  "size": 256,
+  "steps": 16,
+  "seed": 7,
+  "guidance": 7.5,
+  "torch": "2.15.0",
+  "diffusers": "0.35.1",
+  "semantic_quality_expected": true,
+  "manifest_sha256": "028f92c01405814405aa29202c029dacc74abd39763c3273c53be507bc689606",
+  "resolved_checkpoint_commit": "8a4288a76071f7280aedbdb3253bdb9e9d5d84bb"
+}

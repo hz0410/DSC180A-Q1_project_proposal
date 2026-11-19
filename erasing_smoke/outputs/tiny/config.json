@@ -1,0 +1,15 @@
+{
+  "mode": "tiny",
+  "model": "hf-internal-testing/tiny-stable-diffusion-pipe",
+  "requested_revision": null,
+  "device": "cpu",
+  "size": 64,
+  "steps": 4,
+  "seed": 7,
+  "guidance": 7.5,
+  "torch": "2.15.0",
+  "diffusers": "0.35.1",
+  "semantic_quality_expected": false,
+  "manifest_sha256": "028f92c01405814405aa29202c029dacc74abd39763c3273c53be507bc689606",
+  "resolved_checkpoint_commit": "3ee6c9f225f088ad5d35b624b6514b091e6a4849"
+}

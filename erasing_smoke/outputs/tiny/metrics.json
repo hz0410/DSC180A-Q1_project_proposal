@@ -1,0 +1,35 @@
+[
+  {
+    "id": "brick_wall",
+    "seconds": 0.14458200000808574,
+    "prompt": "an empty brick wall, continuous brickwork, no people",
+    "mask_fraction": 0.13330078125,
+    "raw_outside_mae": 31.41192488262911,
+    "final_outside_max_error": 0.0,
+    "edited_region_change_mae": 95.54884004884005,
+    "masked_reference_mae": 78.83699633699634,
+    "masked_reference_psnr_db": 8.730823884028782
+  },
+  {
+    "id": "beach",
+    "seconds": 0.08752195800479967,
+    "prompt": "an empty beach, blue sea and sand, no people",
+    "mask_fraction": 0.13330078125,
+    "raw_outside_mae": 61.290704225352115,
+    "final_outside_max_error": 0.0,
+    "edited_region_change_mae": 96.1978021978022,
+    "masked_reference_mae": 84.76373626373626,
+    "masked_reference_psnr_db": 7.99379571306452
+  },
+  {
+    "id": "park",
+    "seconds": 0.08704862499143928,
+    "prompt": "an empty park path surrounded by grass, no people",
+    "mask_fraction": 0.13330078125,
+    "raw_outside_mae": 51.870892018779344,
+    "final_outside_max_error": 0.0,
+    "edited_region_change_mae": 93.74969474969475,
+    "masked_reference_mae": 81.7960927960928,
+    "masked_reference_psnr_db": 8.264546131794233
+  }
+]

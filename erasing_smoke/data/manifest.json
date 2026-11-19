@@ -1,0 +1,23 @@
+[
+  {
+    "id": "brick_wall",
+    "image": "brick_wall/input.png",
+    "mask": "brick_wall/mask.png",
+    "reference": "brick_wall/clean.png",
+    "prompt": "an empty brick wall, continuous brickwork, no people"
+  },
+  {
+    "id": "beach",
+    "image": "beach/input.png",
+    "mask": "beach/mask.png",
+    "reference": "beach/clean.png",
+    "prompt": "an empty beach, blue sea and sand, no people"
+  },
+  {
+    "id": "park",
+    "image": "park/input.png",
+    "mask": "park/mask.png",
+    "reference": "park/clean.png",
+    "prompt": "an empty park path surrounded by grass, no people"
+  }
+]
