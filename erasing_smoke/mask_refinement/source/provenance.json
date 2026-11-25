@@ -1,0 +1,5 @@
+{
+  "url": "https://www.cis.upenn.edu/~jshi/ped_html/PennFudanPed.zip",
+  "archive_sha256": "9095a9613c95586f1c7f2a327d454833d16e0f5e17e5f83d35027ffd315b48e2",
+  "note": "First sorted photos; union of labeled people; 15px dilation; square edge padding; no clean reference."
+}

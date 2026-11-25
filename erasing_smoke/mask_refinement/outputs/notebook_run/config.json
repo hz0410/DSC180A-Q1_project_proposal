@@ -1,0 +1,18 @@
+{
+  "model": "stable-diffusion-v1-5/stable-diffusion-inpainting",
+  "revision": "8a4288a76071f7280aedbdb3253bdb9e9d5d84bb",
+  "device": "mps",
+  "dtype": "torch.float32",
+  "steps": 16,
+  "guidance": 7.5,
+  "base_seed": 7,
+  "seed_offsets": [
+    0
+  ],
+  "negative_prompt": "person, people, human, silhouette, body, artifacts",
+  "torch": "2.15.0",
+  "diffusers": "0.35.1",
+  "weights_updated": false,
+  "manifest_sha256": "7c98c84aab4e98346892682ea657693120463fc20fec2fba4260997ad8e9d4d3",
+  "annotation_method": "manually reviewed person-group regions and approximate shadow edit ROIs"
+}

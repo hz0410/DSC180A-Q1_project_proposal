@@ -1,0 +1,110 @@
+[
+  {
+    "id": "FudanPed00001",
+    "variant": "original",
+    "seed": 7,
+    "seconds": 6.264588291000109,
+    "mask_fraction": 0.1427154541015625,
+    "outside_mask_max_error": 0.0,
+    "raw_outside_mask_mae": 11.05574640015663,
+    "added_region_change_mae": null,
+    "mask_sha256": "4f33d706d28fae1fd504837ece505e411615f03989fd8d0be811ce4bf9563016",
+    "prompt": "an empty outdoor campus walkway, continuous pavement, trees and buildings, no people"
+  },
+  {
+    "id": "FudanPed00001",
+    "variant": "people_complete",
+    "seed": 7,
+    "seconds": 2.4679147910210304,
+    "mask_fraction": 0.1893463134765625,
+    "outside_mask_max_error": 0.0,
+    "raw_outside_mask_mae": 10.939748150657858,
+    "added_region_change_mae": 18.223931064572426,
+    "mask_sha256": "73bf849e8e42868e28d35b58244dc7e1110938b63cc4ddd52c4f19e3956c4636",
+    "prompt": "an empty outdoor campus walkway, continuous pavement, trees and buildings, no people"
+  },
+  {
+    "id": "FudanPed00001",
+    "variant": "people_and_shadows",
+    "seed": 7,
+    "seconds": 2.4709546249941923,
+    "mask_fraction": 0.2173309326171875,
+    "outside_mask_max_error": 0.0,
+    "raw_outside_mask_mae": 11.22476751213616,
+    "added_region_change_mae": 16.04110429447853,
+    "mask_sha256": "8e9c5e9d2a4d52643a077069d0d7f4e7f826565e7c08624de0d24296bf2bfb1d",
+    "prompt": "an empty outdoor campus walkway, continuous pavement, trees and buildings, no people"
+  },
+  {
+    "id": "FudanPed00002",
+    "variant": "original",
+    "seed": 8,
+    "seconds": 2.4910299169714563,
+    "mask_fraction": 0.1056671142578125,
+    "outside_mask_max_error": 0.0,
+    "raw_outside_mask_mae": 11.956356315367422,
+    "added_region_change_mae": null,
+    "mask_sha256": "ccbb5541d17658535bc078a025d60887c582254473e84214174ae51a3e7266a9",
+    "prompt": "an empty outdoor campus walkway, continuous pavement, trees and buildings, no people"
+  },
+  {
+    "id": "FudanPed00002",
+    "variant": "people_complete",
+    "seed": 8,
+    "seconds": 2.4636639169766568,
+    "mask_fraction": 0.205902099609375,
+    "outside_mask_max_error": 0.0,
+    "raw_outside_mask_mae": 11.797054942802609,
+    "added_region_change_mae": 45.55929365200183,
+    "mask_sha256": "e88115e5584d9c02ed241af9013530c1bf4e225172d73f630090a036df9d9bb3",
+    "prompt": "an empty outdoor campus walkway, continuous pavement, trees and buildings, no people"
+  },
+  {
+    "id": "FudanPed00002",
+    "variant": "people_and_shadows",
+    "seed": 8,
+    "seconds": 2.4937991659971885,
+    "mask_fraction": 0.2213287353515625,
+    "outside_mask_max_error": 0.0,
+    "raw_outside_mask_mae": 12.001130032072009,
+    "added_region_change_mae": 41.22106420404573,
+    "mask_sha256": "a53383d515e2a28aed72a8ba342043e79a8deb13fe7612028a55df4e831664d2",
+    "prompt": "an empty outdoor campus walkway, continuous pavement, trees and buildings, no people"
+  },
+  {
+    "id": "FudanPed00003",
+    "variant": "original",
+    "seed": 9,
+    "seconds": 2.5033073750091717,
+    "mask_fraction": 0.1035003662109375,
+    "outside_mask_max_error": 0.0,
+    "raw_outside_mask_mae": 9.44438014512734,
+    "added_region_change_mae": null,
+    "mask_sha256": "0b63845eecba7891de60ec14e125d00235a8ff7c0ea693081e13700e8d8addab",
+    "prompt": "an empty outdoor campus walkway, continuous pavement, trees and buildings, no people"
+  },
+  {
+    "id": "FudanPed00003",
+    "variant": "people_complete",
+    "seed": 9,
+    "seconds": 2.498301125015132,
+    "mask_fraction": 0.1969451904296875,
+    "outside_mask_max_error": 0.0,
+    "raw_outside_mask_mae": 9.292633339033612,
+    "added_region_change_mae": 39.25544306553451,
+    "mask_sha256": "d4a53ef860b5f91edbf35db4787f733b6112e7f3519f2b2975b47a42c08da5e0",
+    "prompt": "an empty outdoor campus walkway, continuous pavement, trees and buildings, no people"
+  },
+  {
+    "id": "FudanPed00003",
+    "variant": "people_and_shadows",
+    "seed": 9,
+    "seconds": 2.5167668749927543,
+    "mask_fraction": 0.2078704833984375,
+    "outside_mask_max_error": 0.0,
+    "raw_outside_mask_mae": 9.39573260390782,
+    "added_region_change_mae": 36.191569200779725,
+    "mask_sha256": "a9422ea23ce1ac23aad5d10ca6156a3a00639068c83dbeb0c3e584cc14f06033",
+    "prompt": "an empty outdoor campus walkway, continuous pavement, trees and buildings, no people"
+  }
+]

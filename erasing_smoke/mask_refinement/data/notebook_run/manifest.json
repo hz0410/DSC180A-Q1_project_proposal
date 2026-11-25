@@ -1,0 +1,53 @@
+[
+  {
+    "id": "FudanPed00001",
+    "image": "FudanPed00001/input.png",
+    "prompt": "an empty outdoor campus walkway, continuous pavement, trees and buildings, no people",
+    "masks": {
+      "original": "FudanPed00001/original.png",
+      "people_complete": "FudanPed00001/people_complete.png",
+      "people_and_shadows": "FudanPed00001/people_and_shadows.png"
+    },
+    "shadow_roi": "FudanPed00001/shadow_roi.png",
+    "coverage": {
+      "original": 0.1427154541015625,
+      "people_complete": 0.1893463134765625,
+      "people_and_shadows": 0.2173309326171875
+    },
+    "source_image_sha256": "2149dc2d523086e425eb9a1e2e51a92b9fd85d713b81d0d53aa7955975415207"
+  },
+  {
+    "id": "FudanPed00002",
+    "image": "FudanPed00002/input.png",
+    "prompt": "an empty outdoor campus walkway, continuous pavement, trees and buildings, no people",
+    "masks": {
+      "original": "FudanPed00002/original.png",
+      "people_complete": "FudanPed00002/people_complete.png",
+      "people_and_shadows": "FudanPed00002/people_and_shadows.png"
+    },
+    "shadow_roi": "FudanPed00002/shadow_roi.png",
+    "coverage": {
+      "original": 0.1056671142578125,
+      "people_complete": 0.205902099609375,
+      "people_and_shadows": 0.2213287353515625
+    },
+    "source_image_sha256": "f66e18c15b6f3d5a6b12bb46e03a1e5889276b31d4a417d0081e2c601591b8da"
+  },
+  {
+    "id": "FudanPed00003",
+    "image": "FudanPed00003/input.png",
+    "prompt": "an empty outdoor campus walkway, continuous pavement, trees and buildings, no people",
+    "masks": {
+      "original": "FudanPed00003/original.png",
+      "people_complete": "FudanPed00003/people_complete.png",
+      "people_and_shadows": "FudanPed00003/people_and_shadows.png"
+    },
+    "shadow_roi": "FudanPed00003/shadow_roi.png",
+    "coverage": {
+      "original": 0.1035003662109375,
+      "people_complete": 0.1969451904296875,
+      "people_and_shadows": 0.2078704833984375
+    },
+    "source_image_sha256": "ef0e4778168d907c9e02caff1ea0f9297e9c8d3cb8317fd66d53f7388844efb2"
+  }
+]

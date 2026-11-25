@@ -1,0 +1,6 @@
+{
+  "size": 256,
+  "dilation_radius_in_inference_pixels": 3,
+  "annotation_type": "manual case-specific person polygons and approximate shadow ROIs",
+  "annotations_sha256": "7eb43725fd5807340049df65ac32be525e99622cc39ca1c0827d6a180efe2844"
+}

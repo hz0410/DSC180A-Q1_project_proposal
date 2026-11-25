@@ -1,0 +1,26 @@
+[
+  {
+    "id": "FudanPed00001",
+    "image": "FudanPed00001/input.png",
+    "mask": "FudanPed00001/mask.png",
+    "prompt": "an empty outdoor campus walkway, continuous pavement, trees and buildings, no people",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/PennFudanPed.zip",
+    "source_member": "PennFudanPed/PNGImages/FudanPed00001.png"
+  },
+  {
+    "id": "FudanPed00002",
+    "image": "FudanPed00002/input.png",
+    "mask": "FudanPed00002/mask.png",
+    "prompt": "an empty outdoor campus walkway, continuous pavement, trees and buildings, no people",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/PennFudanPed.zip",
+    "source_member": "PennFudanPed/PNGImages/FudanPed00002.png"
+  },
+  {
+    "id": "FudanPed00003",
+    "image": "FudanPed00003/input.png",
+    "mask": "FudanPed00003/mask.png",
+    "prompt": "an empty outdoor campus walkway, continuous pavement, trees and buildings, no people",
+    "source": "https://www.cis.upenn.edu/~jshi/ped_html/PennFudanPed.zip",
+    "source_member": "PennFudanPed/PNGImages/FudanPed00003.png"
+  }
+]
